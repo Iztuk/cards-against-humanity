@@ -1,4 +1,3 @@
-import java.util.Arrays;
 public class CardGenerator {
     public String GetWhiteCard(int x){
         String[] whiteCard =
